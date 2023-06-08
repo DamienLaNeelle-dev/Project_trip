@@ -1,0 +1,12 @@
+@media (min-width: 1223px) {
+  .advantages .title_name {
+    display: none;
+  }
+  .title_advantages img {
+    display: block;
+  }
+}
+
+.card-body p {
+  font-weight: bold;
+}
